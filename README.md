@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Siddhartha Hadkhale</h1>
 <h3 align="center">A passionate developer and Cyber Security Enthusiast from Nepal</h3>
 
-- 🔭 I’m currently working on [chat-app](private.com)
+- 🔭 I’m currently working on [shell](private.com)
 
 - 🌱 I’m currently learning **Rust**
 
