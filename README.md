@@ -5,15 +5,15 @@
 
 - 🌱 I’m currently learning **Rust**
 
-- 👨‍💻 All of my projects are available at [https://siddharthahadhkhale.com](https://siddharthahadhkhale.com)
+- 👨‍💻 All of my projects are available at [https://siddharthahadhkhale.com](https://ctf.sheiskush.tech/projects)
 
-- 📝 I regularly write articles on [https://blogs.siddharthahadkhale.com](https://blogs.siddharthahadkhale.com)
+- 📝 I regularly write articles on [https://blogs.siddharthahadkhale.com](https://ctf.sheiskush.tech/posts)
 
 - 💬 Ask me about **Cybersecurity, C, Javascript and PHP, python**
 
 - 📫 How to reach me **siddharthahadkhal3@gmail.com**
 
-- 📄 Know about my experiences [https://siddharthahadkhale.com/resume.pdf](https://siddharthahadkhale.com/resume.pdf)
+- 📄 Know about my experiences [https://siddharthahadkhale.com/resume.pdf]
 
 - ⚡ Fun fact **I am funny**
 
